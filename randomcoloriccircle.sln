@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "randomcoloriccircle", "randomcoloriccircle\randomcoloriccircle.pyproj", "{4B84FD50-B4A7-43F1-BE09-21D1C8434371}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B84FD50-B4A7-43F1-BE09-21D1C8434371}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B84FD50-B4A7-43F1-BE09-21D1C8434371}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {304A558E-17AA-4D8A-948F-A77EAC9DEC28}
+	EndGlobalSection
+EndGlobal
